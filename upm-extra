@@ -1,0 +1,61 @@
+@media (min-width: 300px) and (max-width: 1199.98px) {
+    .university-board-section__card__img {
+        position:relative;
+        margin-top:0;
+    }
+    .university-board-section__card__body {
+        padding: 49px 0 0;
+    }
+}
+
+@media (max-width: 1199.99px) {
+    .university-board-section__card__body__title h3 {
+        font-size:25px;
+        line-height: 35px;
+        margin-top:5px;
+    }
+    .university-board-section__card__body__subtitle h6 {
+        font-size:18px;
+        margin-bottom:0;
+        line-height: 25px;
+        height:50px;
+        overflow:hidden;
+        
+    }
+    .section-image .container-fluid-margin {
+    margin-right: 50px;
+    margin-left: 50px;
+        
+    }
+    .section-image__info {
+    width: 100%;
+    }
+}
+
+@media only screen and (max-width: 767.98px) {
+  .section-image .container-fluid-margin {
+    margin-right: 20px;
+    margin-left: 20px;
+        
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1401px) {
+    .university-board-section .lfr-layout-structure-item-row:first-child .row [class*=col] {
+        margin-top: 80px;
+    }
+    .university-board-section [class*=col] {
+    margin-top: 100px;
+} 
+    .university-board-section__card__body__title h3 {
+        font-size:32px;
+        margin-top:15px;
+        line-height:40px;
+        margin-bottom:0px;
+    }
+    .university-board-section__card__body__subtitle h6 {
+        font-size:25px;
+        line-height:30px;
+        margin-bottom:0px;
+    }
+}
